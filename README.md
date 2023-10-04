@@ -18,8 +18,8 @@
       <a href="#about-the-project">Overview</a>
       <ul>
         <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#try-it-out">Try It Out</a></li>
         <li><a href="#features">Features</a></li>
+        <li><a href="#try-it-out">Try It Out</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -42,15 +42,15 @@ This is one of the first dynamic React projects that I built. It was one of the 
 In this project, we used a meme [API](https://imgflip.com/api) to dynamically showcase a random meme from their extensive collection.
 
 
-### Try It Out
-You can try it out yourself by going to this [link](https://claraz4.github.io/Meme-Generator/)!
-
-
 ### Features
 
 Some of the features of this project include:
 - Random meme generation
 - Customizable top and bottom text
+
+
+### Try It Out
+You can try it out yourself by going to this [link](https://claraz4.github.io/Meme-Generator/)!
 
 
 ### Built With
